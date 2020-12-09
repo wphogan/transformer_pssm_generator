@@ -1,5 +1,7 @@
 # Custom ignore
 data/*
+.DS_Store
+.idea/*
 
 # Thanks to https://github.com/github/gitignore/blob/master/Python.gitignore
 # Byte-compiled / optimized / DLL files
